@@ -1,23 +1,23 @@
  <p align="center">  
   <a href="">
-    <img alt="𝐎𝐖𝐋-𝐀𝐈" width="600" height="350" src="https://telegra.ph/file/afa18fd398c209fea95ef.jpg/iI086tX.jpeg">
+    <img alt="AKLinus" width="600" height="350" src="https://telegra.ph/file/3c880d7298640199eca25.jpg">
   </a>
 </p>
 
 
 
 <p align="center">
-<a href="https://github.com/owlai01/Owl-Ai"><img title="Author" src="https://img.shields.io/badge/THE 𝐎𝐖𝐋-𝐀𝐈 -black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Lino7902/AKLinus"><img title="Author" src="https://img.shields.io/badge/THE AKLinus -black?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
-<a href="https://github.com/owlai01?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/owlai01?label=Followers&style=social"></a>
-<a href="https://github.com/owlai01/Owl-Ai/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/owlai01/Owl-Ai?&style=social"></a>
-<a href="https://github.com/owlai01/Owl-Ai/network/members"><img title="Fork" src="https://img.shields.io/github/forks/owlai01/Owl-Ai?style=social"></a>
-<a href="https://github.com/owlai01/Owl-Ai/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/owlai01/Owl-Ai?label=Watching&style=social"></a>
+<a href="https://github.com/Lino7902?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Lino7902?label=Followers&style=social"></a>
+<a href="https://github.com/Lino7902/AKLinus/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Lino7902/AKLinus?&style=social"></a>
+<a href="https://github.com/Lino7902/AKLinus/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Lino7902/AKLinus?style=social"></a>
+<a href="https://github.com/Lino7902/AKLinus/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Lino7902/AKLinus?label=Watching&style=social"></a>
 </p>
  
-<h1 align="center">𓅓𝐎𝐖𝐋-𝐀𝐈𓅓</h1>
+<h1 align="center">AKLinus</h1>
 
 <h2 align="left">ＳＥＳＳＩＯＮ ＩＤ (ＰＡＩＲ ＣＯＤＥ)</h2>
 <p align="left">
@@ -52,8 +52,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/owlai01/Owl-Ai
-$ cd Owl-Ai
+$ git clone https://github.com/Lino7902/AKLinus
+$ cd AKLinus
 $ npm i 
 $ npm start
 ```
@@ -63,7 +63,7 @@ $ npm start
 
 <h2 align="left">All Credits To malibu thee great</h2>
 
-<a href="https://github.com/owlai01"><img src="https://telegra.ph/file/bd6345298eefdf3fdd027.jpg" width="70" height="70" alt="malibu"/></a>
+<a href="https://github.com/Lino7902"><img src="https://telegra.ph/file/3c880d7298640199eca25.jpg" width="70" height="70" alt="AKLinus"/></a>
   
-`malibu`
+`AKLinus`
 
