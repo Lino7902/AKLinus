@@ -1,9 +1,9 @@
 const sessionName = "dreaded1";
 const antiforeign = process.env.ANTIFOREIGN || 'FALSE';
 const autobio = process.env.AUTOBIO || 'TRUE';
-let botname = process.env.BOTNAME || '𝐎𝐖𝐋-𝐀𝐈';
+let botname = process.env.BOTNAME || '𝓐𝓚𝓛𝓲𝓷𝓾𝓼';
 
-const owner = process.env.DEV || '254712703241'; // This will send a notification once the bot reconnects
+const owner = process.env.DEV || '254768276341'; // This will send a notification once the bot reconnects
 const {
   default: dreadedConnect,
   useMultiFileAuthState,
@@ -30,7 +30,7 @@ const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./lib/
 const store = makeInMemoryStore({ logger: pino().child({ level: "silent", stream: "store" }) });
 
     const autoviewstatus = process.env.AUTOVIEW_STATUS || 'TRUE';
-const welcome = process.env.WELCOME || 'TRUE';
+const welcome = process.env.WELCOME || 'FALSE';
 
 const color = (text, color) => {
   return !color ? chalk.green(text) : chalk.keyword(color)(text);
@@ -300,7 +300,7 @@ function _0x4f5a() {
         '9rOCBsS',
         '5528200DCrwWN',
         'group\x20rule',
-        'reated by 𝐎𝐖𝐋\x20𝐀𝐈',
+        'reated by 𝓐𝓚𝓛𝓲𝓷𝓾𝓼\x20𝐀𝐈',
         'lry',
         'cBOYH',
         'ILuES',
@@ -734,7 +734,7 @@ function _0x4dc1() {
       console.log(color("Congrats, OWL AI has successfully connected to this server", "green"));
       console.log(color("Follow me on INSTAGRAM @_m.a.l.i.b.u__", "red"));
       console.log(color("Text the bot number with !menu to check my command list"));
-      client.sendMessage(owner + "@s.whatsapp.net", { text: `𝐎𝐖𝐋 𝐀𝐈 𝐡𝐚𝐬 𝐬𝐭𝐚𝐫𝐭𝐞𝐝 ...` });
+      client.sendMessage(owner + "@s.whatsapp.net", { text: `𝓐𝓚𝓛𝓲𝓷𝓾𝓼 𝐀𝐈 𝐡𝐚𝐬 𝐬𝐭𝐚𝐫𝐭𝐞𝐝 ...` });
     }
     // console.log('Connected...', update)
   });
