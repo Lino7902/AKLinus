@@ -61,7 +61,7 @@ $ npm start
 3. Scan the QR code from the second device. (Go to WhatsApp > Linked Devices > Link a Device) 
 ---------
 
-<h2 align="left">All Credits To malibu thee great</h2>
+<h2 align="left">All Credits To ᴬᴷ°᭄Linus࿐</h2>
 
 <a href="https://github.com/Lino7902"><img src="https://telegra.ph/file/3c880d7298640199eca25.jpg" width="70" height="70" alt="AKLinus"/></a>
   
