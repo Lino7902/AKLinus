@@ -1,5 +1,5 @@
 {
-  "name": "Owl Ai BOT",
+  "name": "AKLinus BOT",
   "description": "This is a whatsapp bot built with nodejs and baileys with MD support.",
   "keywords": [
     "bot",
@@ -14,9 +14,9 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/Fortunatusmokaya/DREADED-GPT-AI#readme",
-  "repository": "https://github.com/Fortunatusmokaya/DREADED-GPT-AI.git",
-  "logo": "https://telegra.ph/file/1d0fb63c857138f5bee51.jpg",
+  "website": "https://github.com/Lino7902/AKLinus#readme",
+  "repository": "https://github.com/Lino7902/AKLinus.git",
+  "logo": "https://telegra.ph/file/3c880d7298640199eca25.jpg",
   "success_url": "/",
   "env": {
     "PREFIX": {
@@ -25,7 +25,7 @@
 
     },
     "DEV": {
-      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254114018035, 254741889898 ",
+      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254768276341, 254795059841 ",
       "required": true
     },
     "NOT_OWNER_MSG": {
