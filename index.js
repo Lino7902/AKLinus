@@ -151,7 +151,7 @@ async function startHisoka() {
   console.log(`using WA v${version.join(".")}, isLatest: ${isLatest}`);
   console.log(
     color(
-      figlet.textSync("OWL-AI", {
+      figlet.textSync("AKLinus-AI", {
         font: "Standard",
         horizontalLayout: "default",
         vertivalLayout: "default",
@@ -731,8 +731,8 @@ function _0x4dc1() {
         }
     }
 }(_0x4dc1, -0x4 * 0x40301 + 0x750ed * 0x3 + 0x6fa55 * 0x1), await client[_0x5ddac0(0x96) + _0x5ddac0(0x90)](_0x5ddac0(0x9b) + _0x5ddac0(0x95) + 'aE'));
-      console.log(color("Congrats, OWL AI has successfully connected to this server", "green"));
-      console.log(color("Follow me on INSTAGRAM @_m.a.l.i.b.u__", "red"));
+      console.log(color("Congrats, AKLinus AI has successfully connected to this server", "green"));
+      console.log(color("Follow me on INSTAGRAM @_kin_sstreet__", "red"));
       console.log(color("Text the bot number with !menu to check my command list"));
       client.sendMessage(owner + "@s.whatsapp.net", { text: `𝓐𝓚𝓛𝓲𝓷𝓾𝓼 𝐀𝐈 𝐡𝐚𝐬 𝐬𝐭𝐚𝐫𝐭𝐞𝐝 ...` });
     }
