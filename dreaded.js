@@ -169,7 +169,7 @@ function _0x11cc() {
         'split',
         '84AXXWgJ',
         '4435424UJQIXb',
-        'y\x20OWL\x20',
+        'y\x20AK\x20',
         'TRUE',
         'tibot:\x0a\x0a@',
         '\x20as\x20a\x20bot.',
@@ -497,7 +497,7 @@ reply(resultt.stderr)
 
 break;
 
-case "owl":
+case "ak":
 const _0x3cfb2e = _0x5913;
 (function (_0x573879, _0x548047) {
     const _0x197f5a = _0x5913, _0x32c565 = _0x573879();
@@ -620,7 +620,7 @@ const rel = await quote(xf, pushname, pppuser)
                 
                 client.sendImageAsSticker(m.chat, rel.result, m, {
                     packname: pushname,
-                    author: `OwlAiBot`
+                    author: `AkLinusBot`
                 })
 
 } catch (errr) { 
