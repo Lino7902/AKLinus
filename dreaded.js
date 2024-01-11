@@ -436,7 +436,7 @@ let cap = `╭════〘 𝓐𝓚𝓛𝓲𝓷𝓾𝓼 𝐁𝐎𝐓 〙═�
 if (menu === 'VIDEO') {
 
                    client.sendMessage(m.chat, {
-                        video: fs.readFileSync('./menu.mp4'),
+                        video: fs.readFileSync('./aklinus.mp4'),
                         caption: cap,
                         gifPlayback: true
                     }, {
@@ -1069,7 +1069,7 @@ try {
  if (users  == client.decodeJid(client.user.id)) throw 'Bot cannot remove itself 😡';
  if (users == Owner) { m.reply('Its owner number')}; 
                  await client.groupParticipantsUpdate(m.chat, users, 'remove'); 
-await m.reply('Successfully removed!'); 
+await m.reply('Successfully removed by bot!'); 
 } catch (errr) { 
  await reply("Something is wrong! Did you give me a user to remove?")}
 
@@ -1875,7 +1875,7 @@ case "movie":
  break;
  
           case "Linus": case "owner": case "𝓐𝓚𝓛𝓲𝓷𝓾𝓼": 
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/3c880d7298640199eca25.jpg' }, caption: `Say no more 😌 here is 𝓐𝓚𝓛𝓲𝓷𝓾𝓼 contact +254768276341 🥱` }, {quoted: m}); 
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/3c880d7298640199eca25.jpg' }, caption: `Say no more 😎 here is 𝓐𝓚𝓛𝓲𝓷𝓾𝓼 contact +254768276341 🥱` }, {quoted: m}); 
   
  break; 
         
@@ -1914,7 +1914,7 @@ case "movie":
          let res = groups.map(v => v.id) 
          reply(` Broadcasting in ${res.length} Group Chat, in ${res.length * 1.5} seconds`) 
          for (let i of res) { 
-             let txt = `</ Dreaded Broadcast >\n\n🀄 Message: ${text}\n\nAuthor: ${pushname}` 
+             let txt = `</ AKLinus Broadcast >\n\n🀄 Message: ${text}\n\nAuthor: ${pushname}` 
              await client.sendMessage(i, { 
                  image: { 
                      url: "https://telegra.ph/file/3c880d7298640199eca25.jpg" 
