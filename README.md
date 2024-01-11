@@ -22,8 +22,9 @@
 <h2 align="left">ＳＥＳＳＩＯＮ ＩＤ (ＰＡＩＲ ＣＯＤＥ)</h2>
 <p align="left">
 <a href="https://replit.com/@LinusOduor/Pairing-AKLinus"><img height= "40" title="Author" src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=replit"></a>
+ <h2 align="left">CONNECT WITH ME VIA WHATSAPP</h2>
 <p/>
-
+<a href="https://wa.me/254768276341"><img height= "40" title="Author" src="https://img.shields.io/badge/WHATSAPP-black?style=for-the-badge&logo=whatsapp"></a
 ****
 
 
