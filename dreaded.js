@@ -323,7 +323,7 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
   
 
     if (cmd && !m.isGroup) {
-      console.log(chalk.black(chalk.bgWhite("[ OWL-AI ]")), color(argsLog, "turquoise"), chalk.magenta("From"), chalk.green(pushname), chalk.yellow(`[ ${m.sender.replace("@s.whatsapp.net", "")} ]`));
+      console.log(chalk.black(chalk.bgWhite("[ AKLinus-AI ]")), color(argsLog, "turquoise"), chalk.magenta("From"), chalk.green(pushname), chalk.yellow(`[ ${m.sender.replace("@s.whatsapp.net", "")} ]`));
     } else if (cmd && m.isGroup) {
       console.log(
         chalk.black(chalk.bgWhite("[ LOGS ]")),
@@ -388,7 +388,7 @@ let cap = `╭════〘 𝓐𝓚𝓛𝓲𝓷𝓾𝓼 𝐁𝐎𝐓 〙═�
 ┃ᴬᴷ│Mix
 ┃ᴬᴷ│Ai-img                                                                                                                                                                                                                                                                                     
 ┃ᴬᴷ│Gpt
-┃ᴬᴷ│Owl
+┃ᴬᴷ│AkLinus
 ┃ᴬᴷ│DP
 ┃ᴬᴷ│Speed
 ┃ᴬᴷ│Alive
@@ -771,7 +771,7 @@ function _0x40c6() {
         '27989tCQoID',
         '168765oAXpMe',
         'ate',
-        'Owl\x20ha',
+        'AKLinus\x20ha',
         '422RQjzbp',
         '\x20removed!',
         'No\x20virtual',
@@ -1722,7 +1722,7 @@ break;
 break;
 
 case "ping": case "speed": { 
-         m.reply (`𓅓𝓟𝓸𝓷𝓰...! ${dreadedspeed.toFixed(4)} 𝓶𝓼`); 
+         m.reply (`𝓐𝓚𝓟𝓸𝓷𝓰...! ${dreadedspeed.toFixed(4)} 𝓶𝓼`); 
          } 
  break; 
   
@@ -1824,7 +1824,7 @@ client.sendMessage(from, buttonMessage, { quoted: m })
    fs.unlinkSync(media); 
    if (err) throw err 
    let buffer = fs.readFileSync(mokaya); 
-   client.sendMessage(m.chat, { image: buffer, caption: `Converted by Owl ai! 🦄`}, { quoted: m }) 
+   client.sendMessage(m.chat, { image: buffer, caption: `Converted by AKLinus! 🦄`}, { quoted: m }) 
    fs.unlinkSync(mokaya); 
     }); 
     } 
@@ -1932,7 +1932,7 @@ case "getvar":
      });  
      let baseUR = "/apps/" + appname;  
      let h9 = await heroku.get(baseUR + '/config-vars');  
-     let stoy = '*Below Are Heroku Variables For Owl:*\n\n';  
+     let stoy = '*Below Are Heroku Variables For AKLinus:*\n\n';  
      for ( vrt in h9) { // Added 'const' to declare 'vr' 
          stoy += vrt + '=' + h9[vrt] + '\n\n'; // Fixed variable name 'str' to 'sto' 
      }  
