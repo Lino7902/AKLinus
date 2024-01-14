@@ -37,7 +37,8 @@
 #### 1. If You don't have an account in Heroku. Create an account.
 <br>
        <p align="left"><a href="https://signup.heroku.com"> <img src="https://img.shields.io/badge/heroku%20Account-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-Fork the repo and upload the session file to your repo, after that use the above link to deploy your bot directly to heroku: https://dashboard.heroku.com/new?template=(replace with your github fork repo)
+After creating your heroku account pair your whatsapp number with the bot using replit link above and get session file then
+Fork the repo and upload the session file to your repo, after that use the above link to deploy your bot directly to heroku: https://dashboard.heroku.com/new?template=( replace with your github fork repo)
 
 
 <h1 align="left">ÐΣPLOY TO REPLIT</h1> 
